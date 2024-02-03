@@ -3,7 +3,7 @@
 <p><em>Data Science student at <a href="http://www.unb.br">University of Milano-Bicocca</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Instagram: coro_the_boss](https://img.shields.io/instagram/follow/coro_the_boss)]([https://twitter.com/ThaiiBraga](https://www.instagram.com/coro_the_boss/))
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
