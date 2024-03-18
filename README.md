@@ -14,7 +14,7 @@ CoroTheBoss = {
         "sports": ["swimming", "running"],
         "others": ["coin collection"]
     },
-    "description": """I am a Data Science student nearingthe completion of my master’sdegree.
+    "description": """I am a Data Science student nearing the completion of my master’sdegree.
                     I am highly interested in adynamic job that requires analyticaland scientific thinking"""
 }
 ```
