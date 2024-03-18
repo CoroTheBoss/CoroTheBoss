@@ -15,6 +15,6 @@ CoroTheBoss = {
         "others": ["coin collection"]
     },
     "description": """I am a Data Science student nearing the completion of my master’sdegree.
-                    I am highly interested in adynamic job that requires analyticaland scientific thinking"""
+                    I am highly interested in adynamic job that requires analytical and scientific thinking"""
 }
 ```
